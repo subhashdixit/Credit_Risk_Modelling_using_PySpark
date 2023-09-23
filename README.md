@@ -1,2 +1,16 @@
-# Credit_Risk_Modelling_using_PySpark
-We are going to build an end-to-end machine learning model using MLlib in pySpark. we are going to use a real world dataset from Home Credit Default Risk competition on kaggle. the objective of this competition was to identify if loan applicants are capable of repaying their loans.
+# Home Credit Risk Default Prediction
+
+## Commands for virtual environment:
+ 1. To create new virtual environment:
+""" conda create -p venv python=3.9 -y 
+"""
+ 2. To activate new virtual environment:
+ """
+    For command promt: conda activate venv/
+    For Git Bash: source activate venv/
+"""
+## Command to install requirements.txt file:
+ 1. pip install -r requirements.txt
+
+## Command to install ipykernel to run jupyter notebook
+1. conda install ipykernel
